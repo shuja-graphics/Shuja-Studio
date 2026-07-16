@@ -123,3 +123,6 @@ Ready to start your next project? Reach out to us directly through any of our ch
 *   **📸 Instagram:** [@shuja.studio](https://www.instagram.com/shuja.studio)
 *   **🌐 Portfolio & Web:** [shuja-studio.preview.emergentagent.com](https://shuja-studio.preview.emergentagent.com/)
 *   
+background: rgba(255, 255, 255, 0.45);
+backdrop-filter: blur(12px);
+border: 1px solid rgba(255, 255, 255, 0.25);
