@@ -1,3 +1,6 @@
+a bright, clean, and welcoming aesthetic, a light-mode background using soft, flowing pastel lines and frosted-glass panels is an incredible choice.
+The Vibe: Friendly, corporate, highly polished, and trustworthy.
+How it looks: A soft off-white background with abstract, looping vector waves in light blue and pink. The website content is housed in "glass" cards that blur whatever is behind them.
 <div align="center">
 
 <!-- Colorful Gradient Header Banner using dynamic SVGs -->
